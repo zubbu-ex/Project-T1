@@ -1,2 +1,5 @@
 # Project-T1
-test 
+My first git hub project!
+HEllo odin!
+
+
